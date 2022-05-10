@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="btn_add">Добавить</string>
+    <string name="start_label">Создать заметку</string>
+    <string name="start_btn_room">OFFLINE</string>
+    <string name="title">Заметки</string>
+    <string name="toast_enter_name">Введите имя заметки</string>
+    <string name="start_btn_firebase">ONLINE</string>
+    <string name="email">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="start_btn_login">Login</string>
+    <string name="toast_wrong_enter">Введите пароль и почту</string>
+
+    <!-- Alert Dialog -->
+    <string name="exit_dialog_title">Выйти из заметок?</string>
+    <string name="delete_dialog_title">Удалить заметку?</string>
+    <string name="dialog_positive"><b>Да</b></string>
+    <string name="dialog_negative"><b>Нет</b></string>
+</resources>
